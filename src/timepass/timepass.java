@@ -7,6 +7,8 @@ public class timepass {
 
 		System.out.println("hi");
 System.out.println("hi");
+System.out.println("wagdarikar");
+
 	}
 
 }
